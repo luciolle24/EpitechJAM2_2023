@@ -1,0 +1,17 @@
+asset/cutscenes/Cutscene1_2.png
+1
+Why are you here?
+6
+Today we have a maths lesson ?
+1
+What is it even about?
+6
+It's about mathematical demonstartions or something.
+1
+Oh you mean like the one we did in class?
+6
+When I was absent ?
+1
+Here's the recap
+1
+if ∠ 1 is congruent to ∠ 5, ∠ 2 is congruent to ∠ 6, ∠ 3 is congruent to ∠ 7 and ∠ 4 is congruent to ∠ 8, then the two lines are parallel.

@@ -1,0 +1,154 @@
+
+Main Characters :
+    -Name: Katashi (Player)
+    -Age: 2103
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 0 - 4
+
+Secondary Characters:
+    -Name: Ombre
+    -Age: 2157
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 28
+
+    -Name: Hogo
+    -Age: 4100
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 14
+
+    -Name: Lame
+    -Age: 3156
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 17
+
+    -Name: Iga
+    -Age: ???
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 15
+
+    -Name: Koga
+    -Age: ???
+    -Affiliation: Koga
+    -Font: Daubenton
+    -id: 16
+
+    -Name: Arkhen
+    -Age: ???
+    -Affiliation: ???
+    -Font: Daubenton
+    -id: 5
+
+Enemies:
+    -Name: Enemy (Bully F)
+    -Age: 230
+    -Affiliation: Iga
+    -Font: Daubenton
+    -id: 8
+
+    -Name: Enemy (Bully M)
+    -Age: 234
+    -Affiliation: Iga
+    -Font: Daubenton
+    -id: 9
+
+    -Name: Enemy (Missing Nin F)
+    -Age: 24
+    -Affiliation: ???
+    -Font: Daubenton
+    -id: 10
+
+    -Name: Enemy (Missing Nin M)
+    -Age: 23
+    -Affiliation: ???
+    -Font: Daubenton
+    -id: 11
+
+    -Name: Enemy (Sila'a F)
+    -Age: 25
+    -Affiliation: Sila'a
+    -Font: Daubenton
+    -id: 12
+
+    -Name: Enemy (Sila'a M)
+    -Age: 21
+    -Affiliation: Sila'a
+    -Font: Daubenton
+    -id: 13
+
+    -Name: Enemy (Demon A)
+    -Age: ???
+    -Affiliation: ???
+    -Font: Daubenton
+    -id: 6
+
+    -Name: Enemy (Demon B)
+    -Age: ???
+    -Affiliation: ???
+    -Font: Daubenton
+    -id: 7
+
+NPC:
+    -Name: Artia (NPC_A)
+    -Age: 18
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 18
+
+    -Name: Colin'ia (NPC_C)
+    -Age: 18
+    -Affiliation: Sila'a
+    -Font: Avara
+    -id: 19
+
+    -Name: Lu'tra (NPC_L)
+    -Age: 19
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 20
+
+    -Name: Est'eon (NPC_E)
+    -Age: 18
+    -Affiliation: Koga
+    -Font: Daubenton
+    -id: 21
+
+    -Name: Sem'na (NPC_Ra)
+    -Age: 24
+    -Affiliation: Sila'a
+    -Font: Avara
+    -id: 22
+
+    -Name: Samn'io (NPC_Rb)
+    -Age: 18
+    -Affiliation: Sila'a
+    -Font: Avara
+    -id: 23
+
+    -Name: Eli (NPC_Rc)
+    -Age: 45
+    -Affiliation: Iga
+    -Font: Avara
+    -id: 24
+
+    -Name: Seta (NPC_Rd)
+    -Age: 23
+    -Affiliation: Sila'a
+    -Font: Avara
+    -id: 25
+
+    -Name: Ta'et (NPC_Re)
+    -Age: 23
+    -Affiliation: Koga
+    -Font: Daubenton
+    -id: 26
+
+    -Name: Stem'io (NPC_Rf)
+    -Age: 12
+    -Affiliation: ???
+    -Font: Avara
+    -id: 27

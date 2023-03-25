@@ -1,0 +1,13 @@
+map:[
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+]
+player:[health;player_model;stamina;posx;posy;city]
+inventory:[0:0]
+gamedata:[time]

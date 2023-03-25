@@ -1,0 +1,23 @@
+asset/cutscenes/Cutscene1_1.png
+15
+In the beginning, the continent of Stran'ia was the home of the Great Empire
+15
+It spanned multiple millenniums, with at its head the Great Emperor
+16
+The Great Emperor had 2 sons, Istra'n Iga Koean and Koni'am Koga Koean
+16
+Once the great Emperor died, the two sons divided the empires into provinces
+15
+The Igaen province and The Kogaen province
+16
+Those provinces changed during the next 20 000 years
+16
+Now those provinces also include the young independent provinces of Sila'a,
+16
+Ate'rna, and Klon'ia
+15
+The story takes place far away from the history books
+15
+In the village of Iga, lives a young operative named Katashi
+15
+This is their story...

@@ -1,0 +1,15 @@
+asset/utility/simple_background.png
+5
+To advance in cutscenes please press "space"
+5
+Inside the game, you can move around using the keys you set up in the settings
+5
+Please note that every playthrough will be different
+5
+Every little choice you make can have big effects...
+5
+Now... Let's hear some more from the dev...
+21
+You read up all the lore I tried hiding into the game ?
+21
+Please enjoy this distopia and let us make your day a bit more philosophical

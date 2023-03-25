@@ -1,0 +1,29 @@
+asset/utility/simple_background.png
+5
+To advance in cutscenes please press "space"
+5
+Inside the game, you can move around using the keys you set up in the settings
+5
+Please note that every playthrough will be different
+5
+Every little choice you make can have big effects...
+5
+Now... Let's hear some more from the devs...
+18
+So you finished the base game ?
+19
+You found every secret ?
+21
+You read up all the lore I tried hiding into the game ?
+20
+You saved the game, multiple times ? Please...
+21
+We spent a lot of time to make this game... And I made multiple books about it...
+19
+I managed to make Lu'tra's world a reality...
+18
+I made this thing work... took like, 3 weeks and a lot of sweat and tears
+20
+Yep... We tried our best
+21
+Please enjoy this distopia and let us make your day a bit more philosophical

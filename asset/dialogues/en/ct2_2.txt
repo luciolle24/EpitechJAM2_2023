@@ -1,0 +1,5 @@
+asset/cutscenes/Cutscene1_1.png
+2
+*walking to the school*
+2
+Today we have a maths lesson.Bwa

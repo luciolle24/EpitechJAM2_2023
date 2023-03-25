@@ -1,0 +1,5 @@
+asset/cutscenes/Cutscene1_1.png
+1
+*walking to the school*
+1
+Today we have a maths lesson.

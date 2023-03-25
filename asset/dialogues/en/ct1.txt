@@ -1,0 +1,17 @@
+asset/cutscenes/Cutscene1_1.png
+15
+You might have played the prequel to this game
+15
+It was called "The Uprising of Sila'a"
+16
+But this story is completely different...
+16
+It's the story on the other side of a young dev called Aiden
+15
+Going to a school called Epitech Berlin
+16
+They were all students of the same class
+16
+Enjoy this fever dream coded on the C "my_rpg" engine
+16
+Now with AI dialogues
