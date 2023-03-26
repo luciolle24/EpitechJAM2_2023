@@ -1,0 +1,3 @@
+# EpitechJAM2_2023
+This project was a solo project made for an epitech jam using an engine I coded myself for last yyear my_rpg based on the CSFML...
+Expect some bugs. And/or some headaches... It's a fever dream come true
