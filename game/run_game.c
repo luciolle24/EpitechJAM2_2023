@@ -63,4 +63,7 @@ sfFont *font)
     cutscene_gen(game, "3", win, font);
     cutscene_gen_noplayer(game, "4", win, font);
     cutscene_gen(game, "5", win, font);
+    cutscene_gen_noplayer(game, "6", win, font);
+    cutscene_gen_noplayer(game, "7", win, font);
+    cutscene_gen_noplayer(game, "8", win, font);
 }

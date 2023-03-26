@@ -1,0 +1,14 @@
+asset/cutscenes/Cutscene1_3.png
+1
+bwa... What happened ?
+2
+I don't know
+3
+Are we all the same person
+5
+You're at the edge of consicousness
+5
+Welcome to...
+5
+THE OTHER SIDE...
+
